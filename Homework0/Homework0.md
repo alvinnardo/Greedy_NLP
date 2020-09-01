@@ -4,9 +4,11 @@
 
 - 链接：
 
-参考：https://www.zhihu.com/people/wenzhe-li
+参考：https://www.zhihu.com/people/li982791535
 
-#### 参考文章：https://blog.csdn.net/u011344545/article/details/89556941
+#### 参考文章：
+
+https://blog.csdn.net/u011344545/article/details/89556941
 
 
 #### 请列出至少5位你感兴趣的国外顶尖NLP专家以及他们目前所在单位和主要研究领域：
