@@ -13,7 +13,7 @@
 |      have access to      |    有权访问     |
 |         gradient         |     n. 梯度     |
 |         variance         |     n. 方差     |
-|                          |                 |
+|   qualitative analysis   |    定性分析     |
 |                          |                 |
 |                          |                 |
 |                          |                 |
